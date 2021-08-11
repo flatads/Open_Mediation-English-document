@@ -1,0 +1,1 @@
+# ftat-ads-English-document
