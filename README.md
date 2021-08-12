@@ -263,7 +263,7 @@ allprojects {
 Add the following in your application-level build.gradle file inside dependencies section.
 
 ```groovy
-implementation 'com.openmediation.adapters:flatads:2.3.2'
+implementation 'com.openmediation.adapters:flatads:2.3.3'
 implementation 'com.openmediation.adapters:adtiming:2.3.1'
 implementation 'com.openmediation.adapters:mintegral:2.3.0'
 
